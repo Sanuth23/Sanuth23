@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Sanuth Senumika</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3> <br>
+<h3 align="center">A passionate Full-stack developer</h3> <br>
 
 <p>
 💻 As a Fullstack Developer, I specialize in Java development, JavaScript, React, Spring Boot,  Angular, Node.js, and MySQL. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
 
-- 🌱 I’m currently learning **Node.js,JavaScript,React,Angular,Springboot**
+- 🌱 I’m currently learning **Node.js, JavaScript, React, Angular, Springboot**
 
 - 📫 How to reach me **sanuthsenumika23@gmail.com**
 
-- 🔭 I’m currently working on **ICET-Institute of Computer Engineering Technology**
+- 🔭 I’m currently working on   **ICET-Institute of Computer Engineering Technology**
 
 🎓 Education and Certifications:
 - Higher Diploma in Software Engineering - ICET
