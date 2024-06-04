@@ -4,7 +4,7 @@
 <p>
 💻 As a Fullstack Developer, I specialize in Java development, JavaScript, React, Spring Boot,  Angular, Node.js, NestJs, and MySQL. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
 
-- 🌱 I’m currently learning **NestJs, typeScript, Node.js, JavaScript, React, Angular, Springboot**
+- 🌱 I’m currently learning **NestJs, TypeScript, Node.js, JavaScript, React, Angular, Springboot**
 
 - 📫 How to reach me **sanuthsenumika23@gmail.com**
 
