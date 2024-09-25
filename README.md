@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sanuth Senumika</h1>
-<h3 align="center">A passionate Full-stack developer</h3> <br>
+<h3 align="center">A passionate Associate Software Engineer</h3> <br>
 
 <p>
 💻 As a Fullstack Developer, I specialize in Java development, JavaScript, React, Spring Boot,  Angular, Node.js, NestJs, and MySQL. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on   **ICET-Institute of Computer Engineering Technology**
 
 🎓 Education and Certifications:
+- Bachelor of Information Technology - University of Colombo School of Computing (UCSC)
 - Higher Diploma in Software Engineering - ICET
 - Advanced Level in Physical Science Stream - Richmond College, Galle (2022 A/L)
 
